@@ -1,0 +1,25 @@
+body {
+    background-image: url(kppc.jpg);
+    background-size: cover; 
+    background-position: center; 
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white; 
+	min-height: 100vh;
+}
+
+h1 {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: larger5;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, p, a {
+    color: darkgreen;
+}
+
+.sriftas {
+    font-style: italic;
+}

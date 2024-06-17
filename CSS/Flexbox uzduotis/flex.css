@@ -1,0 +1,46 @@
+.vienas {
+    display: flex;
+    justify-content: space-around;
+    background: darkblue; 
+}
+
+.pirmas {
+    background: orange;
+}
+
+.du {    display: flex;
+    justify-content: space-around;
+    background: rgb(228, 94, 5); 
+}
+
+.antras {    
+    padding: 5em;
+    margin: 1em;
+    background: white;
+}
+
+.trys {
+    display:flex;
+    background: white;
+
+
+}
+
+.trecias {display:flex;
+    background: white;
+
+}
+
+.keturi {
+    display: flex;
+    justify-content: space-around;
+    background: rgb(228, 94, 5); 
+}
+
+.ketvirtas {
+    padding: 7em;
+    margin: 3em;
+    display:flex;
+    background: orange;
+
+}

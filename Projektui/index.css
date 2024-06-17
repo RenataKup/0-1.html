@@ -1,0 +1,37 @@
+a {
+    color: darkgreen;
+}
+
+body {
+    background-image: url(kppc.jpg);
+    background-size: cover; 
+    background-position: center; 
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Times New Roman', sans-serif;
+    color: darkgreen; 
+	min-height: 100vh;
+    font-size: 130%;
+    font-style: italic;
+}
+
+div.navbar-collapse {
+    display: none;
+}
+
+div.contacts {
+    max-width: 200px;
+    margin: 0 auto;
+    color: darkgreen (39, 164, 39);
+    padding: 200px 0 100px 0;
+    text-align: center;
+}
+
+div.contacts-images {
+    max-width: 10px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-bottom: 10px;
+}

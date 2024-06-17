@@ -1,0 +1,16 @@
+p {background-color: rgba(255, 255, 255, 0.5)}
+#vienas{background-position:center; 
+    background-image:url(ght.jpg);
+    background-size: cover;
+}
+h1 {background-color: rgba(100, 100, 100, 0.5);
+
+color: white;
+}
+#du{background-position:center;
+    background-image:url(mnt.jpg);
+    background-size: cover;
+}
+#trys{background-position:center;
+    background-image:url(tg.jpg) ;
+background-size: cover;}
