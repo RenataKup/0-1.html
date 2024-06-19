@@ -8,10 +8,10 @@ body {
     background-size: cover; 
     background-position: center; 
     margin: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Times New Roman', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: darkgreen; 
 	min-height: 100vh;
-    font-size: 130%;
+    font-size: 170%;
     font-style: italic;
 }
 
