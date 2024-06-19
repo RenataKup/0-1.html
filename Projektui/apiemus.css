@@ -20,6 +20,10 @@ h1, p, a {
     color: darkgreen;
 }
 
+a {
+    font-style: italic;
+}
+
 .sriftas {
     font-style: italic;
 }

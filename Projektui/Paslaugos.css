@@ -1,5 +1,10 @@
-h3, p {
-  color: darkgreen;
+h3, p, a {
+color: darkgreen;
+}
+
+a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, 'Times New Roman', sans-serif;
+  font-style: italic;
 }
 
 div.flex-grid {

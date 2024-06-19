@@ -1,5 +1,6 @@
 a {
     color: darkgreen;
+    text-decoration: none;
 }
 
 body {
@@ -34,4 +35,22 @@ div.contacts-images {
     justify-content: center;
     gap: 20px;
     padding-bottom: 10px;
+}
+
+
+div.contacts a {
+    text-decoration: none;
+}
+
+img.logo {
+    vertical-align: middle;
+}
+
+ul.navbar-nav {
+    list-style: none;
+}
+
+a.bottom {
+    position: fixed;
+    bottom: 0;
 }
